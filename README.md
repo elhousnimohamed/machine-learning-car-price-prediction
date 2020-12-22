@@ -1,5 +1,6 @@
 # machine-learning-car-price-prediction
-👌Supervised learning algorithms for car price prediction using RandomForestRegressor model
+👌Supervised learning algorithms for car price prediction using RandomForestRegressor model 
+
         1 Getting data ready
         2 filling the missing values then converting non-numerical values to numerical values 'feature encoding' using Pipeline
         3 split the correct data into train set and test set using train_test_split
